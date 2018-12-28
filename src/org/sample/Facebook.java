@@ -10,6 +10,10 @@ public static void login() {
 	
 	System.out.println("verified login 2 times");
 }
+
+public static void verifylogin() {
+	System.out.println("verification done successfully");
+}
 public static void main(String[] args) {
 	signin();
 }
