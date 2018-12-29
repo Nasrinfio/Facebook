@@ -13,6 +13,10 @@ public static void signin() {
 	System.out.println("verification done successfully");
 }
 
+public static void logincheck() {
+	System.out.println("login");
+}
+
 public static void login() {
 	
 	System.out.println("verified login 2 times");
